@@ -1,8 +1,8 @@
 # ando-debloater &nbsp; ![GitHub release (latest by date)](https://img.shields.io/github/v/release/cipheras/ando-debloater?style=flat&logo=superuser)
-#### A script to debloate android phones🧹🧹
+#### A script to debloate android phones🧹🧹 No Root required.
 
 ## Usage
-Download this whole folder and run `debloat.cmd` by double clicking on it and give the name of the **txt file (*without ".txt"***), which contains your list of apps to be uninstalled. 
+Enable USB Debugging. Download this whole folder and run `debloat.cmd` by double clicking on it and give the name of the **txt file (*without ".txt"***), which contains your list of apps to be uninstalled. 
 <br>You can make your own list of apps to be uninstalled. Install any app from Play Store which shows package name of installed apps(e.g. Package Name Viewer) and make your own list of packages and run with this script.
  
 ## License
